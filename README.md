@@ -42,10 +42,6 @@ Step 4. Run the code
 * [SQL OnLine IDE](https://sqliteonline.com/) - To check sqlite results
 * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) - To check csv results
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
 ## Developer ✒️
 
 * **Andrés Mendoza** - *Trabajo Inicial* - [andresmendozaq](https://github.com/andresmendozaq)
