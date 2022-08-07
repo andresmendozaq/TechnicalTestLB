@@ -22,53 +22,27 @@ Additionally, you must have internet connection at the moment of running the pro
 ### Installing 🔧
 
 Step 1. Download the whole project with all the folders contained within.
-Step 2. Locate src folder and open the 
 
-_Dí cómo será ese paso_
+Step 2. Locate src folder and open the file named TestLB.py in your preferred IDE.
 
-```
-Da un ejemplo
-```
-
-_Y repite_
+Step 3. If you want, you can modify the start and end dates by changing the values of variables fecha_inicial(start) and fecha_final (end)
 
 ```
-hasta finalizar
-```
+Example:
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
+fecha_inicial="2022-03-12"
+fecha_final="2022-05-14"
 
 ```
-Da un ejemplo
-```
+Step 4. Run the code
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
+## Built on🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Pycharm Community Edition](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) - El IDE Utilizado
+* [SQL OnLine IDE](https://sqliteonline.com/) - To check sqlite results
+* [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) - To check csv results
 
 ## Contribuyendo 🖇️
 
