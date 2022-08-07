@@ -1,23 +1,25 @@
-# Test Lulo Bank
+# Technical Test LB
 
-_Repository created to answer to the technical test of Lulo Bank for Analytics engineers Role_
+Repository created to answer a technical test.
 
-## Comenzando 🚀
+This is a Python based application to gather information from web API TVMAZE and turning the information into a data model.
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+### Requirements 📋
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
+You must have installed the following python libraries before running the program.
 
 ```
-Da un ejemplo
+urllib.request 
+json
+pandas
+pandas_profiling
+sqlite3
+datetime
 ```
 
-### Instalación 🔧
+Additionally, you must have internet connection at the moment of running the program, since several queries are made to the web API through runtime.
+
+### Installing 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
