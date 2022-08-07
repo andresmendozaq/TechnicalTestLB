@@ -21,7 +21,8 @@ Additionally, you must have internet connection at the moment of running the pro
 
 ### Installing 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Step 1. Download the whole project with all the folders contained within.
+Step 2. Locate src folder and open the 
 
 _Dí cómo será ese paso_
 
