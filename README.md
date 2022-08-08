@@ -15,6 +15,7 @@ pandas
 pandas_profiling
 sqlite3
 datetime
+unittest
 ```
 
 Additionally, you must have internet connection at the moment of running the program, since several queries are made to the web API through runtime.
